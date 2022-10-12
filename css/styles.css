@@ -12,7 +12,7 @@
   }
 
   .important {
-    color: crimson;
+    color: rgb(180, 27, 57);
     font-weight: bolder;
     font-style: italic;
   }
